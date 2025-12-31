@@ -1,5 +1,7 @@
 # LogicIQ
 
+[Website](https://logiciq.ca)
+
 Cloud-native Kubernetes operators and tools for modern infrastructure automation.
 
 ## 🚀 Projects
