@@ -26,3 +26,9 @@ All operators are available via Helm:
 helm repo add logiciq https://logiciq.github.io/helm-charts
 helm repo update
 ```
+
+## Business and Enterprise Support
+
+Need production-grade reliability? We offer paid support plans for all our tools and operators.
+Visit our [helpdesk portal](https://helpdesk.logiciq.ca/) to discover plans and SLAs
+
